@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JlSEPFJ2Y4td0pq4bU6Bjb1Z7ywnqbRF2zts72ednRA=",
+  "Source": "WebAPIServer",
+  "BasePath": "_content/WebAPIServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIServer\\wwwroot",
+      "Source": "WebAPIServer",
+      "ContentRoot": "D:\\T&PTeam\\Crypthocurrency\\Backend\\WebAPIServer\\wwwroot\\",
+      "BasePath": "_content/WebAPIServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\T&PTeam\\Crypthocurrency\\Backend\\WebAPIServer\\wwwroot\\index.html",
+      "SourceId": "WebAPIServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\T&PTeam\\Crypthocurrency\\Backend\\WebAPIServer\\wwwroot\\",
+      "BasePath": "_content/WebAPIServer",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

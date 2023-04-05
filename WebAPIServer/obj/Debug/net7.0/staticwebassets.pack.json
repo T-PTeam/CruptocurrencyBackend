@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\T&PTeam\\Crypthocurrency\\Backend\\WebAPIServer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAPIServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAPIServer.props",
+      "PackagePath": "build\\WebAPIServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPIServer.props",
+      "PackagePath": "buildMultiTargeting\\WebAPIServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAPIServer.props",
+      "PackagePath": "buildTransitive\\WebAPIServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
